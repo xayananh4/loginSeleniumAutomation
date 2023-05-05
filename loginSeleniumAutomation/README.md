@@ -7,4 +7,5 @@
 * 13:28: installig GitLab Runner on Mac OS
 * 14:01: still working on GitLab Runner on Mac OS
 * 14:42: push .git-ci-yml to remote gitlab server
+* 14:53: researching Xpath
 
