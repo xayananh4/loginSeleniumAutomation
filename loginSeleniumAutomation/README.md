@@ -9,4 +9,5 @@
 * 14:42: push .git-ci-yml to remote gitlab server
 * 14:53: researching Xpath
 * 15:35: still researching Xpath
+* 16:21: researching Xpath contains function
 
