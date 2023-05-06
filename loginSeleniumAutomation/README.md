@@ -10,4 +10,5 @@
 * 14:53: researching Xpath
 * 15:35: still researching Xpath
 * 16:21: researching Xpath contains function
+* 09:51: researching xpath parent
 
